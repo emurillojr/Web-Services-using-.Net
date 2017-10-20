@@ -1,0 +1,13 @@
+//author
+//first-name
+//author/*
+//price/@exchange
+/bookstore/book/author/publication[1]
+/bookstore/book[last()]
+or
+/bookstore/book[last() - 1]
+//author[first-name = "Mary"]
+//author[not(first-name = "Mary")]
+//author[degree and award]
+//book[excerpt]//award
+//book[/bookstore/@specialty=@style]
