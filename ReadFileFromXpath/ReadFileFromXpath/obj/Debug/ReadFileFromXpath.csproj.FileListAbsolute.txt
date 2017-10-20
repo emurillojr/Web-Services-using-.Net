@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\bin\Debug\ReadFileFromXpath.exe.config
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\bin\Debug\ReadFileFromXpath.exe
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\bin\Debug\ReadFileFromXpath.pdb
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.Form1.resources
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.exe
+C:\Users\Administrator\Desktop\Web Services-----\ReadFileFromXpath\ReadFileFromXpath\obj\Debug\ReadFileFromXpath.pdb
