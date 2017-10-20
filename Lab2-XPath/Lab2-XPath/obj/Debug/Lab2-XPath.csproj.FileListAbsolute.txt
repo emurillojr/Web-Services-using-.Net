@@ -1,0 +1,29 @@
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.exe.config
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.exe
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.pdb
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2_XPath.Form1.resources
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2_XPath.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.exe
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.pdb
+C:\Users\Administrator\Desktop\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.exe.config
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.exe
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.pdb
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.exe
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.pdb
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2_XPath.Form1.resources
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2_XPath.Properties.Resources.resources
+C:\Users\001384335\Desktop\Web Services\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.exe.config
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.exe
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\bin\Debug\Lab2-XPath.pdb
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2_XPath.Form1.resources
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2_XPath.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.exe
+C:\Users\Administrator\Desktop\Web Services-----\Lab2-XPath\Lab2-XPath\obj\Debug\Lab2-XPath.pdb
