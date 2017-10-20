@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\bin\Debug\ContactsLpart1.exe.config
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\bin\Debug\ContactsLpart1.exe
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\bin\Debug\ContactsLpart1.pdb
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.Form1.resources
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.exe
+C:\Users\Administrator\Desktop\Web Services-----\ContactsLpart1\ContactsLpart1\obj\Debug\ContactsLpart1.pdb
