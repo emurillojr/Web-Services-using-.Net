@@ -1,0 +1,49 @@
+<ContactDatabase>
+   <DBinfo>
+	  <LatestVers>11/22/2010</LatestVers>
+	  <CurrentVersion>1.20</CurrentVersion>
+   
+      <Contact sex = "m">
+		<FirstName>John-Luc</FirstName>
+		<LastName>Picard</LastName>
+		<PhoneNumber>401-555-9999</PhoneNumber>
+		<FaxNumber>401-444-9999</FaxNumber>
+		<emailAddress>jp@gmail.com</emailAddress>
+	  </Contact>
+	  
+	  <Contact sex = "m">
+		<FirstName>Ben</FirstName>
+		<LastName>Sisco</LastName>
+		<PhoneNumber>401-777-9999</PhoneNumber>
+		<FaxNumber>401755-9999</FaxNumber>
+		<emailAddress>bens@yahoo.com</emailAddress>
+	  </Contact>
+	  
+	  <Contact sex = "m">
+		<FirstName>James</FirstName>
+		<LastName>Kirk</LastName>
+		<PhoneNumber>401-333-9999</PhoneNumber>
+		<FaxNumber>401-359-9999</FaxNumber>
+		<emailAddress>jk@live.com</emailAddress>
+	  </Contact>
+	  
+	  <Contact sex = "f">
+		<FirstName>Kat</FirstName>
+		<LastName>Janeway</LastName>
+		<PhoneNumber>401-211-9999</PhoneNumber>
+		<FaxNumber>401-855-9999</FaxNumber>
+		<emailAddress>kj@hotmail.com</emailAddress>
+	  </Contact>
+	  
+	  <Contact sex = "f">
+		<FirstName>Kira</FirstName>
+		<LastName>Nerys</LastName>
+		<PhoneNumber>401-935-9999</PhoneNumber>
+		<FaxNumber>401-637-9999</FaxNumber>
+		<emailAddress>kn@hotmail.com</emailAddress>
+	  </Contact>
+	  
+	 </DBinfo>
+</ContactDatabase>
+	  
+
