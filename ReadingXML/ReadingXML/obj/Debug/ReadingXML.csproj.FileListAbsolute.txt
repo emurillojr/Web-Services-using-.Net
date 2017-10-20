@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\bin\Debug\ReadingXML.exe.config
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\bin\Debug\ReadingXML.exe
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\bin\Debug\ReadingXML.pdb
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.Form1.resources
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.exe
+C:\Users\Administrator\Desktop\Web Services-----\ReadingXML\ReadingXML\obj\Debug\ReadingXML.pdb

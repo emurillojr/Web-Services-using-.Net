@@ -1,0 +1,70 @@
+<StockQuotes>
+  <RevisionDate>9/27/2017</RevisionDate>
+   <Stock>
+      <Symbol>T</Symbol>
+
+      <Last>38.77</Last>
+
+      <Date>11/22/20170</Date>
+
+      <Time>4:00pm</Time>
+
+      <Change>-0.03</Change>
+
+      <Open>28.32</Open>
+
+      <High>28.33</High>
+
+      <Low>28.05</Low>
+
+      <Volume>19775256</Volume>
+
+      <MktCap>167.2B</MktCap>
+
+      <PreviousClose>28.32</PreviousClose>
+
+      <PercentageChange>-0.11%</PercentageChange>
+
+      <AnnRange>23.78 - 29.49</AnnRange>
+
+      <Earns>3.684</Earns>
+
+      <P-E>7.69</P-E>
+
+      <Name>AT&amp;T Inc.</Name>
+   </Stock>
+<Stock>
+      <Symbol>MCD</Symbol>
+
+      <Last>154.05</Last>
+
+      <Date>11/22/2010</Date>
+
+      <Time>4:00pm</Time>
+
+      <Change>-0.03</Change>
+
+      <Open>100.32</Open>
+
+      <High>102.33</High>
+
+      <Low>98.05</Low>
+
+      <Volume>19775256</Volume>
+
+      <MktCap>167.2B</MktCap>
+
+      <PreviousClose>28.32</PreviousClose>
+
+      <PercentageChange>-0.11%</PercentageChange>
+
+      <AnnRange>23.78 - 29.49</AnnRange>
+
+      <Earns>3.684</Earns>
+
+      <P-E>7.69</P-E>
+
+      <Name>McDonalds</Name>
+   </Stock>
+</StockQuotes>
+
