@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\bin\AccessingWebService.dll.config
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\bin\AccessingWebService.dll
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\bin\AccessingWebService.pdb
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\obj\Debug\AccessingWebService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\obj\Debug\AccessingWebService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\obj\Debug\AccessingWebService.dll
+C:\Users\Administrator\Desktop\Web Services-----\AccessingWebService\AccessingWebService\obj\Debug\AccessingWebService.pdb

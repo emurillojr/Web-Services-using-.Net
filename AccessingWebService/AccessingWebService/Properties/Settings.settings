@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AccessingWebService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccessingWebService_com_cdyne_ws_PhoneVerify" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.cdyne.com/phoneverify/phoneverify.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
