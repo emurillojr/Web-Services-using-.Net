@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\bin\Lab3p1and2.dll.config
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\bin\Lab3p1and2.dll
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\bin\Lab3p1and2.pdb
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\obj\Debug\Lab3p1and2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\obj\Debug\Lab3p1and2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\obj\Debug\Lab3p1and2.dll
+C:\Users\Administrator\Desktop\Web Services-----\Lab3p1and2\Lab3p1and2\obj\Debug\Lab3p1and2.pdb
