@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\bin\WebServiceGetHTTPCalls.dll.config
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\bin\WebServiceGetHTTPCalls.dll
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\bin\WebServiceGetHTTPCalls.pdb
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\obj\Debug\WebServiceGetHTTPCalls.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\obj\Debug\WebServiceGetHTTPCalls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\obj\Debug\WebServiceGetHTTPCalls.dll
+C:\Users\Administrator\Desktop\Web Services-----\WebServiceGetHTTPCalls\WebServiceGetHTTPCalls\obj\Debug\WebServiceGetHTTPCalls.pdb
