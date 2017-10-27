@@ -1,0 +1,5 @@
+8eb0cec557955d5f
+http://api.wunderground.com/api/8eb0cec557955d5f/forecast/geolookup/conditions/q/MA/Boston.xml
+http://api.wunderground.com/api/8eb0cec557955d5f/forecast//q/MA/Boston.xml
+//http://api.geonames.org/postalCodeSearch?postalcode=9011&maxRows=10&username=emurillojr
+//http://api.geonames.org/findNearbyPostalCodes?postalcode=02909&country=US&radius=10&username=emurillojr
