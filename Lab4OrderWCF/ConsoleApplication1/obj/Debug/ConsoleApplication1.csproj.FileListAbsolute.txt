@@ -1,0 +1,13 @@
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

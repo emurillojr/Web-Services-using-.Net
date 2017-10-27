@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="OrderManager" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:5644/OrderManagerService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:5644/OrderManagerService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:5644/OrderManagerService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Lab4OrderWCF" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IOrderManager_GetNumberOfOrders_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNumberOfOrders" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetNumberOfOrders_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNumberOfOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetTotalCostForAnOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTotalCostForAnOrder" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetTotalCostForAnOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTotalCostForAnOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetItemListForOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetItemListForOrder" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetItemListForOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetItemListForOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_HowManyOrderedForAPartNo_InputMessage">
+    <wsdl:part name="parameters" element="tns:HowManyOrderedForAPartNo" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_HowManyOrderedForAPartNo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HowManyOrderedForAPartNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetBillingAddressForAnOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetBillingAddressForAnOrder" />
+  </wsdl:message>
+  <wsdl:message name="IOrderManager_GetBillingAddressForAnOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetBillingAddressForAnOrderResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IOrderManager">
+    <wsdl:operation name="GetNumberOfOrders">
+      <wsdl:input wsaw:Action="http://tempuri.org/IOrderManager/GetNumberOfOrders" message="tns:IOrderManager_GetNumberOfOrders_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IOrderManager/GetNumberOfOrdersResponse" message="tns:IOrderManager_GetNumberOfOrders_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTotalCostForAnOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IOrderManager/GetTotalCostForAnOrder" message="tns:IOrderManager_GetTotalCostForAnOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IOrderManager/GetTotalCostForAnOrderResponse" message="tns:IOrderManager_GetTotalCostForAnOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetItemListForOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IOrderManager/GetItemListForOrder" message="tns:IOrderManager_GetItemListForOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IOrderManager/GetItemListForOrderResponse" message="tns:IOrderManager_GetItemListForOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="HowManyOrderedForAPartNo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IOrderManager/HowManyOrderedForAPartNo" message="tns:IOrderManager_HowManyOrderedForAPartNo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IOrderManager/HowManyOrderedForAPartNoResponse" message="tns:IOrderManager_HowManyOrderedForAPartNo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBillingAddressForAnOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IOrderManager/GetBillingAddressForAnOrder" message="tns:IOrderManager_GetBillingAddressForAnOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IOrderManager/GetBillingAddressForAnOrderResponse" message="tns:IOrderManager_GetBillingAddressForAnOrder_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IOrderManager" type="tns:IOrderManager">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetNumberOfOrders">
+      <soap:operation soapAction="http://tempuri.org/IOrderManager/GetNumberOfOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTotalCostForAnOrder">
+      <soap:operation soapAction="http://tempuri.org/IOrderManager/GetTotalCostForAnOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetItemListForOrder">
+      <soap:operation soapAction="http://tempuri.org/IOrderManager/GetItemListForOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="HowManyOrderedForAPartNo">
+      <soap:operation soapAction="http://tempuri.org/IOrderManager/HowManyOrderedForAPartNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBillingAddressForAnOrder">
+      <soap:operation soapAction="http://tempuri.org/IOrderManager/GetBillingAddressForAnOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="OrderManager">
+    <wsdl:port name="BasicHttpBinding_IOrderManager" binding="tns:BasicHttpBinding_IOrderManager">
+      <soap:address location="http://localhost:5644/OrderManagerService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,39 @@
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\ApplicationInsights.config
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Lab4OrderWCF.dll.config
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Lab4OrderWCF.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Lab4OrderWCF.pdb
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.Web.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.Web.xml
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.dll
+C:\Users\001384335\Desktop\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.pdb
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Lab4OrderWCF.dll.config
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Lab4OrderWCF.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Lab4OrderWCF.pdb
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.dll
+C:\Users\Administrator\Desktop\Web Services-----\Week4\Lab4OrderWCF\Lab4OrderWCF\obj\Debug\Lab4OrderWCF.pdb
