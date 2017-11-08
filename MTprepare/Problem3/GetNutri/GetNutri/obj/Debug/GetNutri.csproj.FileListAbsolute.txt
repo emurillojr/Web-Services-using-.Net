@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\bin\Debug\GetNutri.exe.config
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\bin\Debug\GetNutri.exe
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\bin\Debug\GetNutri.pdb
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.Form1.resources
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.exe
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem3\GetNutri\GetNutri\obj\Debug\GetNutri.pdb
