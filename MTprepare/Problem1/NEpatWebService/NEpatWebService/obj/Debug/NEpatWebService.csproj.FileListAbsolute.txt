@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\bin\NEpatWebService.dll.config
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\bin\NEpatWebService.dll
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\bin\NEpatWebService.pdb
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\obj\Debug\NEpatWebService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\obj\Debug\NEpatWebService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\obj\Debug\NEpatWebService.dll
+C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem1\NEpatWebService\NEpatWebService\obj\Debug\NEpatWebService.pdb
