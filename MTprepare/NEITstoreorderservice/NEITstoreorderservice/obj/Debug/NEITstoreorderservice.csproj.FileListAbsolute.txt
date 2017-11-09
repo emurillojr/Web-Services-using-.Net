@@ -1,7 +1,0 @@
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\bin\NEITstoreorderservice.dll.config
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\bin\NEITstoreorderservice.dll
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\bin\NEITstoreorderservice.pdb
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\obj\Debug\NEITstoreorderservice.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\obj\Debug\NEITstoreorderservice.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\obj\Debug\NEITstoreorderservice.dll
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\NEITstoreorderservice\NEITstoreorderservice\obj\Debug\NEITstoreorderservice.pdb

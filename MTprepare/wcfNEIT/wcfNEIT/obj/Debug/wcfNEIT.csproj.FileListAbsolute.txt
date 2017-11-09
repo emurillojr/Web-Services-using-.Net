@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\wcfNEIT\wcfNEIT\bin\wcfNEIT.dll.config
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\wcfNEIT\wcfNEIT\bin\wcfNEIT.dll
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\wcfNEIT\wcfNEIT\bin\wcfNEIT.pdb
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\wcfNEIT\wcfNEIT\obj\Debug\wcfNEIT.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\wcfNEIT\wcfNEIT\obj\Debug\wcfNEIT.dll
-C:\Users\Administrator\Desktop\Web Services\MTprepare\Problem2\wcfNEIT\wcfNEIT\obj\Debug\wcfNEIT.pdb
